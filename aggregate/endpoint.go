@@ -16,9 +16,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-swagger/loader"
-	"github.com/kamalyes/go-toolbox/pkg/convert"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-swagger/loader"
+	"github.com/HitGameAI/apex-toolbox/pkg/convert"
 )
 
 // Endpoint 表示从 Swagger 规范中提取的接口端点

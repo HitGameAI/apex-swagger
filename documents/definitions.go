@@ -14,8 +14,8 @@ package documents
 import (
 	"strings"
 
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-toolbox/pkg/mathx"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-toolbox/pkg/mathx"
 )
 
 // mergeDocumentDefinitions 递归合并独立文档所需 definitions

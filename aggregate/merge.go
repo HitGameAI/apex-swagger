@@ -14,11 +14,11 @@ package aggregate
 import (
 	"encoding/json"
 
-	"github.com/kamalyes/go-swagger/constants"
-	serrors "github.com/kamalyes/go-swagger/errors"
-	"github.com/kamalyes/go-toolbox/pkg/convert"
-	"github.com/kamalyes/go-toolbox/pkg/errorx"
-	"github.com/kamalyes/go-toolbox/pkg/mathx"
+	"github.com/HitGameAI/apex-swagger/constants"
+	serrors "github.com/HitGameAI/apex-swagger/errors"
+	"github.com/HitGameAI/apex-toolbox/pkg/convert"
+	"github.com/HitGameAI/apex-toolbox/pkg/errorx"
+	"github.com/HitGameAI/apex-toolbox/pkg/mathx"
 )
 
 // mergeAllSpecs 合并所有服务规范为统一规范

@@ -12,8 +12,8 @@
 package aggregate
 
 import (
-	goswagger "github.com/kamalyes/go-config/pkg/swagger"
-	"github.com/kamalyes/go-swagger/loader"
+	goswagger "github.com/HitGameAI/apex-cos/pkg/swagger"
+	"github.com/HitGameAI/apex-swagger/loader"
 )
 
 // loadSingleService 加载单个服务规范

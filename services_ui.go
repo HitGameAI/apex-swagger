@@ -15,8 +15,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-toolbox/pkg/convert"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-toolbox/pkg/convert"
 )
 
 // handleServiceUI 处理单个服务的 Swagger UI 请求

@@ -17,11 +17,11 @@ import (
 	"net/http"
 	"time"
 
-	goswagger "github.com/kamalyes/go-config/pkg/swagger"
-	"github.com/kamalyes/go-swagger/constants"
-	serrors "github.com/kamalyes/go-swagger/errors"
-	"github.com/kamalyes/go-toolbox/pkg/errorx"
-	"github.com/kamalyes/go-toolbox/pkg/safe"
+	goswagger "github.com/HitGameAI/apex-cos/pkg/swagger"
+	"github.com/HitGameAI/apex-swagger/constants"
+	serrors "github.com/HitGameAI/apex-swagger/errors"
+	"github.com/HitGameAI/apex-toolbox/pkg/errorx"
+	"github.com/HitGameAI/apex-toolbox/pkg/safe"
 )
 
 // handleServiceJSON 处理单个服务的 Swagger JSON 请求

@@ -14,8 +14,8 @@ package aggregate
 import (
 	"time"
 
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-toolbox/pkg/safe"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-toolbox/pkg/safe"
 )
 
 // buildAggregateInfo 构建聚合文档 info 字段

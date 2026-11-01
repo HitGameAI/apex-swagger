@@ -1,18 +1,14 @@
-module github.com/kamalyes/go-swagger
+module github.com/HitGameAI/apex-swagger
 
 go 1.25.0
 
 require (
 	github.com/fsnotify/fsnotify v1.9.0
-	github.com/kamalyes/go-config v0.25.1
-	github.com/kamalyes/go-logger v0.9.0
-	github.com/kamalyes/go-toolbox v0.19.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/kamalyes/go-argus v0.5.1 // indirect
 	go.opentelemetry.io/otel v1.44.0 // indirect
 	go.opentelemetry.io/otel/trace v1.44.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
@@ -20,8 +16,7 @@ require (
 )
 
 // 本地开发替换
-// replace github.com/kamalyes/go-toolbox => ../go-toolbox
 
-// replace github.com/kamalyes/go-logger => ../go-logger
+require github.com/HitGameAI/apex-toolbox v0.19.4
 
-// replace github.com/kamalyes/go-config => ../go-config
+require github.com/HitGameAI/apex-cos v0.25.3

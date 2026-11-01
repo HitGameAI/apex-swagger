@@ -14,9 +14,9 @@ package documents
 import (
 	"sort"
 
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-toolbox/pkg/convert"
-	"github.com/kamalyes/go-toolbox/pkg/mathx"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-toolbox/pkg/convert"
+	"github.com/HitGameAI/apex-toolbox/pkg/mathx"
 )
 
 // mergeDocumentTags 合并独立文档需要的 tags

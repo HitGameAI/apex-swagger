@@ -19,8 +19,8 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	serrors "github.com/kamalyes/go-swagger/errors"
-	"github.com/kamalyes/go-toolbox/pkg/errorx"
+	serrors "github.com/HitGameAI/apex-swagger/errors"
+	"github.com/HitGameAI/apex-toolbox/pkg/errorx"
 )
 
 type Watcher struct {

@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/kamalyes/go-swagger/constants"
+	"github.com/HitGameAI/apex-swagger/constants"
 )
 
 // generateRootSwaggerUI 生成根 Swagger UI 页面

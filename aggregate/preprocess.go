@@ -12,8 +12,8 @@
 package aggregate
 
 import (
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-toolbox/pkg/convert"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-toolbox/pkg/convert"
 )
 
 // preprocessServiceSpec 预处理服务规范

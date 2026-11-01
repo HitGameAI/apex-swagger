@@ -14,9 +14,9 @@ package documents
 import (
 	"strings"
 
-	goswagger "github.com/kamalyes/go-config/pkg/swagger"
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-toolbox/pkg/mathx"
+	goswagger "github.com/HitGameAI/apex-cos/pkg/swagger"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-toolbox/pkg/mathx"
 )
 
 // swaggerOperationMethods Swagger 规范中合法的 HTTP 操作方法

@@ -12,7 +12,7 @@
 package aggregate
 
 import (
-	"github.com/kamalyes/go-swagger/constants"
+	"github.com/HitGameAI/apex-swagger/constants"
 )
 
 // newBaseSpec 创建聚合规范骨架，供 merge 和 selector 模式复用

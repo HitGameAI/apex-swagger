@@ -17,15 +17,15 @@ import (
 	"strings"
 	"time"
 
-	goswagger "github.com/kamalyes/go-config/pkg/swagger"
-	"github.com/kamalyes/go-logger"
-	"github.com/kamalyes/go-swagger/aggregate"
-	"github.com/kamalyes/go-swagger/constants"
-	"github.com/kamalyes/go-swagger/documents"
-	serrors "github.com/kamalyes/go-swagger/errors"
-	"github.com/kamalyes/go-swagger/format"
-	"github.com/kamalyes/go-swagger/loader"
-	"github.com/kamalyes/go-toolbox/pkg/errorx"
+	goswagger "github.com/HitGameAI/apex-cos/pkg/swagger"
+	"github.com/HitGameAI/apex-toolbox/pkg/logger"
+	"github.com/HitGameAI/apex-swagger/aggregate"
+	"github.com/HitGameAI/apex-swagger/constants"
+	"github.com/HitGameAI/apex-swagger/documents"
+	serrors "github.com/HitGameAI/apex-swagger/errors"
+	"github.com/HitGameAI/apex-swagger/format"
+	"github.com/HitGameAI/apex-swagger/loader"
+	"github.com/HitGameAI/apex-toolbox/pkg/errorx"
 )
 
 // UIAction Swagger UI 页面顶部导航链接

@@ -11,7 +11,7 @@
 
 package errors
 
-import "github.com/kamalyes/go-toolbox/pkg/errorx"
+import "github.com/HitGameAI/apex-toolbox/pkg/errorx"
 
 // ==================== Swagger 中间件错误类型（7000-7099） ====================
 

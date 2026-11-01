@@ -11,7 +11,7 @@
 
 package errors
 
-import "github.com/kamalyes/go-toolbox/pkg/errorx"
+import "github.com/HitGameAI/apex-toolbox/pkg/errorx"
 
 // init 注册所有错误类型及其默认消息模板
 func init() {

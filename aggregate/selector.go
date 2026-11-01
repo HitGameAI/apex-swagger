@@ -12,7 +12,7 @@
 package aggregate
 
 import (
-	"github.com/kamalyes/go-swagger/constants"
+	"github.com/HitGameAI/apex-swagger/constants"
 )
 
 // createSelectorSpec 创建选择器规范

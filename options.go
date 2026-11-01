@@ -14,7 +14,7 @@ package swagger
 import (
 	"net/http"
 
-	"github.com/kamalyes/go-logger"
+	"github.com/HitGameAI/apex-toolbox/pkg/logger"
 )
 
 // ErrorResponseFunc 自定义错误响应函数

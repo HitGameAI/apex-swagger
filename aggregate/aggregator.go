@@ -18,13 +18,13 @@ import (
 	"strings"
 	"time"
 
-	goswagger "github.com/kamalyes/go-config/pkg/swagger"
-	"github.com/kamalyes/go-logger"
-	"github.com/kamalyes/go-swagger/constants"
-	serrors "github.com/kamalyes/go-swagger/errors"
-	"github.com/kamalyes/go-swagger/format"
-	"github.com/kamalyes/go-toolbox/pkg/errorx"
-	"github.com/kamalyes/go-toolbox/pkg/mathx"
+	goswagger "github.com/HitGameAI/apex-cos/pkg/swagger"
+	"github.com/HitGameAI/apex-toolbox/pkg/logger"
+	"github.com/HitGameAI/apex-swagger/constants"
+	serrors "github.com/HitGameAI/apex-swagger/errors"
+	"github.com/HitGameAI/apex-swagger/format"
+	"github.com/HitGameAI/apex-toolbox/pkg/errorx"
+	"github.com/HitGameAI/apex-toolbox/pkg/mathx"
 )
 
 // ServiceSpecConfig 服务规范配置接口，解耦对 goswagger.ServiceSpec 的直接依赖

@@ -16,9 +16,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/kamalyes/go-swagger/constants"
-	serrors "github.com/kamalyes/go-swagger/errors"
-	"github.com/kamalyes/go-toolbox/pkg/errorx"
+	"github.com/HitGameAI/apex-swagger/constants"
+	serrors "github.com/HitGameAI/apex-swagger/errors"
+	"github.com/HitGameAI/apex-toolbox/pkg/errorx"
 )
 
 // handleDocumentUI 处理独立文档 UI 请求
